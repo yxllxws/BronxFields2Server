@@ -1,281 +1,257 @@
-	CustomNames = {
-		["375046590"] = "[💪] Long Arms"; -- ExtraYxllxws
-		-- CONTENT CREATORS 
-		["2279838457"] = "Zx 🏹"; --ZxOnnat
-		["1186469993"] = "blurr 🎯"; --topshootablurr
-		-- DOA CONTRACT
-		["3146489959"] = "[👹] Vloxy"; --firetwisttiger
-		["9034480343"] = "[👹] Vloxy"; --vloxy2goodinrblx5
-		["7584876732"] = "💸 Jmoney"; --SandraGoRIFFIN435 (doa contract)
-		["2834620506"] = "serix 🎅"; --roblox_user_2834620506 (doa contract)
-		["5857332565"] = "🗡️ voxyy"; --III8IIIIIIII8IIII3 (doa contract)
-		["2682545015"] = "fedi 🕸️ "; --fedirollin (doa contract)
-		["4643593882"] = "Blue🏹"; --Bluewqys (vloxy)
-		["3170432555"] = "Nate🏹"; --Narutonate626 (vloxy)
-		-- OGZ CONTRACT
-		["2557836501"] = "[🇦🇱] limitzzz"; --spraynars (ogz contract)
-		["1513504800"] = "Coma 🧞‍♂️"; --W4ntedComa
-		["1199080467"] = "Suspect 🐐"; --W4ntedSuspect
-		["8565138221"] = "Suspect 🐐"; --Free6suspect
-		-- NORMAL CUSTOMS
-		["240799030"] = "Maya 🐐";
-		["4932443691"] = "[ 💜 ] smokedgoalz"; -- YT_idzz
-		["3429607182"] = "KissDaStream🩸"; -- OPPY
-		["2537126459"] = "Spiffy 👩‍🦲"; -- spiffy
-		["8623808311"] = "[🎯] rah"; -- Fearmyonehand
-		["3654205111"] = "⚡️Chino"; -- chino 
-		["7880048894"] = "wey 🕸️"; -- Wey 
-		["1951625612"] = "Sami 🦇"; --s0hcz
-		["3751845991"] = "[🏹] RXB"; --SubtoRXBYT
-		["900280242"] = "Kedro [🇺🇸]"; -- kedro -- paid
-		["4659279536"] = "Dxtty 👹"; -- Dxtty
-		["8331793346"] = "Olly 🕷️ ";
-		["2318943116"] = "Smokez"; --Agonnis62626263
-		["5276399913"] = "Alp"; --BaconUser9815	
-		["4446818708"] = "Exotic"; --Exoticjjai
-		["3928245404"] = "CRI$K"; --Cris2steezy4 (recieved purchase)
-		["3956694253"] = "Fritzz"; --rxndhawa_saab
-		["205290539"] = "LUCY 🪐 💫"; --LUCYFRE
-		["2860699566"] = "arda 🏹"; --ar4daxd
-		["2340950140"] = "👹 STEAM"; --steamingeggs
-		["200213201"] = "[▶] C0 Studios"; --1TakeC0
-		["2636018657"] = "🥶SHIESTY"; --2shiestyking
-		["1415004301"] = "[▶] TaysRB"; --TayFrmYoutube (free, content creator)
-		["4933423886"] = "K4 Gzz"; --lzistolit3708
-		["5114244269"] = "ZDØT"; --jjlebgf
-		["3062193553"] = "🇵🇸K5ive"; -- Ynw_kori
-		["4764792425"] = "🇵🇸XO"; -- DONTPLAYWITHMEH223
-		["4225159527"] = "👹RASTA"; -- RASTABOWY
-		["7057926367"] = "Kdot"; -- ixfamouskdot
-		["5320992567"] = "🇵🇸Slax"; -- SlaxBlixkz
-		["7033429715"] = "Kev Gzz"; --Kev223105
-		["4441351648"] = "ibra"; --yahavinn
-		["371691381"] = "👾 sin"; --oxifixion
-		["4739832782"] = "[🏴‍☠️] Bdøtty"; --BBBhoopinfr
-		["4547020509"] = "WÊXÝ"; --WeinRagnarson
-		["2458117836"] = "👹PyxlesGz"; --ZepFrost_KH
-		["4141907891"] = "Wock 👹"; --xdfxvxff
-		["5690626243"] = "DOA Suspect"; --KSWITCH9 
-		["4576780908"] = "gunna"; --vgcoolboy1234
-		["2632211537"] = "TACT"; --bemindme
-		["4048514557"] = "Linxz"; --Demons_arereal124 
-		["1532149685"] = "ADØTZ"; --ammaar786011
-		["5774419885"] = "[💫] FLØCKA"; --lolwms22
-		["4724700960"] = "VALI"; --Valiant734 
-		["1312971185"] = "Mxxq"; --u_abot223s
-		["5167509854"] = "✝️Ysøm"; --goatfrom04
-		["149531848"] = "night"; --ClassyRajaAyan
-		["5308892994"] = "DOA MT"; --V6_DANE 
-		["4831864082"] = "CDØT"; --chappa_6ixx
-		["3176382970"] = "Jen"; --stank11135
-		["2060872211"] = "🗡️ Leo"; --leo_gamer2321
-		["1301435423"] = "Plottn 🏴‍☠️"; --9Plottn
-		["980776121"] = "Spida"; --kuka060713k
-		["216277844"] = "🎯didi"; --ImpartialSuperdavid 
-		["2282374980"] = "⚔️ NONO"; --nonovd04
-		["2389583991"] = "Chxrinø"; --CherinoDEV
-		["5265081253"] = "RiskTaker🕊️"; --Smhurdsahimself
-		["4028303915"] = "Guy 🎯"; --ROBLOXISSOBAD_FR
-		["1617667146"] = "🚀 Fdøtty"; --foxeythepizza
-		["4055261"] = "💸 Jmoney"; --Tideman12
-		["1765221061"] = "Frizz⚡️"; --MrCSM10
-		["266169977"] = "🔥Mute🔥"; --Pjaymax
-		["4773980480"] = "👹 KAI GZZ"; --kayflock57908
-		["4119029228"] = "👹 M00"; --1loverevbaby
-		["3821629181"] = "[🏝️] Verca$"; --whateveryodo
-		["3325757819"] = "🚀Dabbie"; --Xdabbie1
-		["4402419904"] = "💯Miles"; --miles3461ss
-		["3894620751"] = "[🚷] BŁIḰKZ"; --tlove5g
-		["3937985516"] = "fraud 🕊️"; --fraud_gz
-		["5276156876"] = "🎯JYE"; --threyhshsrhs
-		["7078710806"] = "[🛡️] Seekerz";	
-		["4702079143"] = "æh"; --ThatOneRobberInJail
-		["3062333113"] = "qhis"; --sheluvkiall
-		["1718845161"] = "TOOTACT"; --bumten42 
-		["3605135559"] = "LURKINN"; --1wrintheworldbaby
-		["966433871"] = "GdøtGzz"; --dospimic
-		["1670632625"] = "FXLTHY ✝️"; --6ig6rain
-		["5300408193"] = "J5IVE"; --jaysmokebakkwoods
-		["5369759783"] = "[🚀] Miles"; --iiExotic_Miles
-		["3931663153"] = "ZAKA"; --Rexboyiioop
-		["5687214630"] = "Jdot"; --Kobesocool3
-		["472615962"] = "POLAR"; -- 20_BXNDZZ
-		["1454179856"] = "DABO"; --Daryl5713
-		["1577956373"] = "Rtx"; --RtxGzz 
-		["4348046711"] = "DBLØCK GZZ"; --soggyrlzz 
-		["5279582431"] = "RØ"; --Adotty_dabest 
-		["4864344187"] = "🕋Saif"; --IlyasTheEvade
-		["2048873571"] = "👹 NaskaGzz"; --novagamerfr_371
-		["928052417"] = "Fishy 🦈"; --Fishinghook45 
-		["4024427559"] = "XYZ 🛰️ "; --Z9TECS
-		["4359203919"] = "👑 Nelly 🎯"; --Reynels444
-		["416826556"] = "[⛈️] Ollyy"; --39Olly
-		["3168006680"] = "NSO PM"; --hdgsyddgueg
-		["376875773"] = "WØCK"; --That_shotta
-		["3303835743"] = "HoodZ"; --Hoodz_00
-		["2646527209"] = "🇺🇸Klryy"; --tylersogucci
-		["1338308491"] = "🇵🇷 AJ"; --ajsmoothcool14
-		["973137196"] = "🇵🇷 SILENCE"; --Downsighted
-		["4015403680"] = "Sami"; --LolSamialt5f
-		["1528945440"] = "Trell🍀"; --kentrehjkdgf
-		["355840768"] = "[🎭]Killer"; --killerstemz
-		["3305517271"] = "werkz🎸"; --werkizzz
-		["979189642"] = "[🎵] Rex!"; --0Pyrex
-		["5080166678"] = "🛸Tdot"; --Alimahdi662
-		["1624224927"] = "[🚬] BRɆZY"; --prxymantis (rich person)
-		["1130892236"] = "🏹 taz"; --wyotaz
-		["3665675588"] = "Booska"; --oh_cvoupas
-		["3050020329"] = "F.2"; --Amskospf
-		["5719953004"] = "adox"; --djaedhoadihz
-		["1233740805"] = "AMIRI"; --Savagenba21 
-		["1678453460"] = "Morroco"; --progamerking116 
-		["5069454330"] = "[💢] GODFATHER"; --empire_creater
-		["1637757804"] = "[🦇]Kairo"; --Kairobeindatrap 
-		["3097428336"] = "⛪️Dougie"; --JasimMahdi123
-		["3552913153"] = "qii 🏹"; --KylrMadeComp 
-		["2023379011"] = "💫Low"; --Iowrodp
-		["5697283443"] = "[🚷] Steppa"; --steppagzzz
-		["109341157"] = "🚀 M1"; --M1RK3DBYM3
-		["156261869"] = "TwinUzis ✝️"; --JonathanPro247
-		["4487366337"] = "REYMI"; --Il_maranza02
-		["3499002018"] = "[🦇]K3"; --MariBDOR 
-		["1609181155"] = "Void ⛈️"; --darrone91 
-		["4091104035"] = "🛰️Adot"; --Deal_nuts
-		["3786435733"] = "🏹 Miles"; --Noob_Prolool
-		["7012258786"] = "Streak ☦️"; --llStreaky
-		["1339135545"] = "burger ☦️"; --overpowered_jr
-		["3179911076"] = "Słeepÿ Gzz💤"; --Za33y45
-		["7052397278"] = "[💫] DRXCO"; --4sev_elzz
-		["4639556497"] = "[🏴‍☠️]CÃSH"; --cashmir55_j
-		["3764255578"] = "[🦇]Tiny"; --BDDtiny
-		["3512438084"] = "[💢] Icyy"; --GhostBoxedUwu
-		["1621615581"] = "oiw⚔️"; --Voiedfmef
-		["5111909070"] = "[🌋] PERXZ"; --Trixy_Demon113
-		["2415937602"] = "[🏖] MD🌀T"; --JJ22vrui 
-		["4273198805"] = "[🕋] Ċøřÿ Ġżž"; --Jay_rober33
-		["3515095762"] = "[💢] Viper"; --notactually_viper 
-		["4903912040"] = "💫 LDxtz"; --Sugarhill_Ldot7
-		["5583253354"] = "Kody"; --OTFSQUADkody220
-		["5738550662"] = "🏴‍☠️Rah"; --xRahSoReckless
-		["3882704761"] = "Neaky 🎷"; --ne4kywrld
-		["4102542548"] = "Memø"; --memo7god
-		["1769254709"] = "Mirr"; --ii_CxzyVibez
-		["2500198317"] = "krip"; --Alakkiboliati 
-		["4062651191"] = "🚀Renda👹"; --FullofRenda
-		["1899064454"] = "Xooticvz"; --Philip11vuffi10
-		["8002672378"] = "Parker[👻]"; --toastersi
-		["8638460216"] = "💯 Glory"; --41Glory
-		["2528569905"] = "Scar"; --Woakdwksl (vloxy)
-		["4958106508"] = "Hunter"; --Habibibibi057
-		["641864333"] = "Dbøøsts"; --funzxx
-		["568519818"] = "Møø"; --VlKyuubii
-		["124261799"] = "Tøøthyy"; --Islwhite
-		["4367328604"] = "Mxkhø"; --vgalarga12 
-		["7043428448"] = "Coath"; --Coathonnat 
-		["3743769008"] = "Ray"; --DontTowMyBugatti
-		["2651208503"] = "gabe"; --Scamdaily
-		["4045220380"] = "Sleepy gzz"; --wayden4nice
-		["994867169"] = "🎯JJ"; --jjl5250
-		["1603146414"] = "{950}"; --Prixiestix 
-		["5508498945"] = "CJ"; --walkdown_ARP
-		["5413779111"] = "MR.OTB"; --Timmyotb (top dog)
-		["1063027985"] = "Gxbø"; --444gabokamy444
-		["4182123574"] = "Jxrø"; --Jerovic_08
-		["5491393171"] = "950 Lewis"; --L_2wis
-		["1779990892"] = "Chxpo̸"; --asimo_8904
-		["3045995794"] = "Alvxrø"; --Alvxrxxx_9
-		["4084949579"] = "kuda"; --KuttBx
-		["879251676"] = "Reuh 🎯"; --ibbyiqbal123 
-		["5123538210"] = "Reijnders"; --WataaFaaaaaaf
-		["4126980478"] = "CEE"; --Shammirde
-		["4999929225"] = "Miami"; --LTM_Yossi
-		["4120303098"] = "pole"; --polegotmotion
-		["5283428559"] = "Hawkdown"; --kyfrmrichmond
-		["684905380"] = "spiffy"; --roboxhary
-		["3215314071"] = "Zxn☄"; --Uknown_Zxn
-		["5732424722"] = "GRIMEY"; --J3_702
-		["4050825390"] = "🇨🇴Alvarez"; --alvareZz_br
-		["4368641045"] = "[🐇] Dp gzz"; -- Dp_2665
-		["8864509288"] = "Selvz 💋"; --Neruiuen
-		["4958566671"] = "zJxvixx"; --jxavix_9
-		["7043721095"] = "CDØT Gzz"; --wyddcdot
-		["2889930694"] = "9diz"; --viniciusjrisagoat
-		["1554011955"] = "wave🚀"; --dtkaydenyeet
-		["1506734781"] = "zJxvi"; --00xiiJxvii
-		["2674887221"] = "Tec"; --Mase_TheGamer
-		["2995021238"] = "950"; --Weall_knowd 
-		["5122956584"] = "950 SILENT"; --Silentk63
-		["3925379999"] = "NXKØ"; --Nikoprox123344 
-		["393149417"] = "rev"; --yasmin13422
-		["2264073110"] = "BIG AD"; --BigAd3x
-		["4342108468"] = "🗽 Spriite"; --6lue_spriite
-		["641479937"] = "JJ"; --solitaryjj
-		["4052132431"] = "Zak 🎯"; --Zakyaka12345
-		["2250539292"] = "[🔞]Sin Gzz"; --SinfulFrmLFS
-		["4394079803"] = "! Human 🌃"; --Matias77xdRaider 
-		["4101476581"] = "Edwin Robertsson"; --MAFfxr14
-		["1713117028"] = "jha 🏎️"; --cooldudejha123
-		["3341426713"] = "Murrda"; --MurrdaBoi762FrmDa0
-		["5244136293"] = "PARKSIDE"; --Parkside30st 
-		["4362387556"] = "SKEECLIPS"; --bp_mond
-		["532791855"] = "KG"; --kewin13577
-		["673653189"] = "Leø"; --mastergaimage610
-		["1707977267"] = "SP5DERGz"; --robert_52527
-		["4728238517"] = "Eli"; --Grxmyelijah 
-		["1169959565"] = "[🏝️] PR🌎JECT"; --Project_Sinsx
-		["3583455001"] = "bando"; --blocksqwg 
-		["1353644798"] = "[🙈]Monkey"; --kamarion1263
-		["3030861593"] = "GENN"; --mmedtj
-		["905256962"] = "☄️Jevy"; --aidenbuggy1234
-		["6144448694"] = "Ð3MØN"; --D1GOODC
-		["5089606027"] = "END"; --EndXxx8
-		["500560736"] = "Cxnticø[🎆]"; --centico
-		["1324953691"] = "KayB"; --KBE_027
-		["1178677289"] = "Bloody"; --NotShaEK5 (rxb)
-		["364136833"] = "Truly"; --najaja23 (rxb)
-		["374914102"] = "sanone"; --5anonee
-		["4741718306"] = "JEO"; --ONE_JEO
-		["5253124943"] = "țūt"; --iclapbaxk  
-		["3906850303"] = "Chxpø"; --Lsepso
-		["3242774358"] = "Mødąk"; --t3o_g1nz3l4z
-		["6182771028"] = "NUEVE"; --MansourBistibisti
-		["7065439500"] = "ŠCRATZ"; --Moneywayyy99
-		["472489257"] = "NR3"; --Boomerang20096
-		["4120162736"] = "Møš† Hā†ēd"; --ibragrabbarna 
-		["5481289827"] = "King[👑]"; --southbronx_king5
-		["5397561869"] = "exø 🎯"; --2exclusiveisah
-		["4878345827"] = "Cy5ø ☦️"; --smhkarii
-		["678509261"] = "PR🌏JECT"; --AidenFuentes05
-		["5639057729"] = "[🔞]  ĦŰĎÐŸ"; --XXXTENTATIONREALACC
-		["4765884400"] = "Pørxźz💦"; --KaBoojjie
-		["513285281"] = "{✝️} J1"; --j1savv
-		["2221683062"] = "K1🩸"; --Lambo_upp
-		["631041016"] = "mondo"; --mondotiberius
-		["6146589091"] = "[🪂] Rizzo"; --mostwantedmarski
-		["2064238793"] = "Lex GZZ🌊"; --yoooojorden
-		["5398536685"] = "[🛸] A2A"; --samy_7899000
-		["4909813167"] = "🛸 starxz"; --mikoold0
-		["2356149831"] = "Tdøt[💢]"; --TherealdealTdot 
-		["2649796288"] = "[🌀] CDØT"; --Toicybro38
-		["5225260320"] = "Steppa Gzz 💎"; --YGZ_W1LL
-		["3142098924"] = "switcharoo⛈️"; --your2mad7
-		["2675083428"] = "🚷ELM"; --Jay_kemur
-		["3551736635"] = "👻💢Money💢👻"; --demon_1srt
-		["2896029194"] = "950"; --CROWD_1922
-		["5355214950"] = "G4by 🐐"; --cristian0abc
-		["3210073744"] = "pain🍼"; --HeyyBuckz
-		["4614457169"] = "👑 Combo👹"; --Theabowman123 
-		["3810371782"] = "🚷6ixdevs"; --Ra_ytx 
-		["2802730617"] = "Doc 🌋"; --Doctoroniphone 
-		["306364072"] = "🎸Kai"; --kai 
-		["487479949"] = "shekyzッ"; --Shekyz 
-		["3298980084"] = "Kedro 🏹"; --Hsgk3k
-		["7734876839"] = "kuni 👹"; --kuniqtt (vloxy)
-		["2355140983"] = "Jdxtty⚔️"; --Jason_rrrr
-		["5467946559"] = "[🙏] Richyy"; --Savage_41233
-		["8719898838"] = "K4Gz💮"; --TsbeenDragon
-		["780475414"] = "Drax"; --mrmaa001
-		["4300626370"] = "Ibra 🐸"; --Ibra768op
-		["4044767343"] = "Lez"; --Lipushmyarp (free)
-		["3248563074"] = "Crxzy 🛁"; --Killysznho  (booster)
-	};
+{
+  "375046590": "Yellow Gzz 🐝",
+  "2318943116": "Smokez 🎸",
+  "5276399913": "Alp👹",
+  "4446818708": "Exotic 🎯",
+  "3928245404": "⛈️CRI$K",
+  "3751845991": "RXB 🕷️",
+  "3956694253": "[❄️] Fritzz",
+  "205290539": "LUCY 🪐 💫",
+  "2860699566": "arda 🏹",
+  "2340950140": "👹 STEAM",
+  "200213201": "[▶] C0 Studios",
+  "2636018657": "🥶SHIESTY",
+  "1415004301": "[▶] TaysRB",
+  "4933423886": "K4 Gzz[🏹]",
+  "5114244269": "ZDØT 🚷",
+  "3062193553": "🇵🇸K5ive",
+  "4764792425": "🇵🇸XO",
+  "4225159527": "👹RASTA",
+  "7057926367": "🇵🇸Kdot",
+  "5320992567": "🇵🇸Slax",
+  "7033429715": "Kev Gzz[🛡]",
+  "4441351648": "[🦅]Ibra",
+  "371691381": "👾 sin",
+  "4739832782": "[🏴‍☠️] Bdøtty",
+  "4547020509": "🎯 WÊXÝ",
+  "2458117836": "👹PyxlesGz",
+  "4141907891": "niko🏹",
+  "5690626243": "[👹]DOA Suspect",
+  "4576780908": "🎯gunna",
+  "2632211537": "🕵️ TACT",
+  "4048514557": "💫Linxz",
+  "1532149685": "👹 ADØTZ",
+  "5774419885": "[💫] FLØCKA",
+  "4724700960": "[🚷] VALI",
+  "1312971185": "[🚷] Mxxq",
+  "5167509854": "✝️Ysøm",
+  "149531848": "night 🕷️",
+  "5308892994": "[👹]DOA MT",
+  "4831864082": "[🌎] Cdot",
+  "3176382970": "🏹Jen",
+  "2060872211": "🗡️ Leo",
+  "1301435423": "Plottn 🏴‍☠️",
+  "4496948737": "durt 🏴‍☠️",
+  "980776121": "😈 Spida",
+  "216277844": "🎯didi",
+  "2389583991": "Chxrinø [💫]",
+  "5265081253": "RiskTaker🕊️",
+  "4028303915": "Guy 🎯",
+  "1617667146": "🚀 Fdøtty",
+  "4055261": "💸 Jmoney",
+  "1765221061": "Frizz⚡️",
+  "266169977": "🔥Mute🔥",
+  "4773980480": "👹 KAI GZZ",
+  "4119029228": "👹 M00",
+  "3821629181": "[🏝️] Verca$",
+  "3325757819": "🚀Dabbie",
+  "4402419904": "💯Miles",
+  "3894620751": "[🚷] BŁIḰKZ",
+  "3937985516": "fraud 🕊️",
+  "5276156876": "🎯JYE",
+  "7078710806": "[🛡️] Seekerz",
+  "4702079143": "💚 YGZ æh 🐇",
+  "3062333113": "qhis🏹",
+  "1718845161": "[💢] TOOTACT",
+  "3605135559": "🇫🇷 Blizzy",
+  "966433871": "[🗽]GdøtGzz",
+  "1670632625": "FXLTHY ✝️",
+  "5300408193": "✝️ J5IVE✝️",
+  "5369759783": "[🚀] Miles",
+  "3931663153": "😈ZAKA",
+  "5687214630": "[🌎] Jdot",
+  "472615962": "POLAR🏹",
+  "1454179856": "🗽DABO",
+  "1577956373": "Rtx🇲🇽",
+  "4348046711": "Matas's Son 👪",
+  "5279582431": "🏹RØ ",
+  "4864344187": "🕋Saif",
+  "2048873571": "👹 NaskaGzz",
+  "928052417": "Fishy 🦈",
+  "4024427559": "[蝙蝠]XYZ",
+  "4359203919": "👑{Nelly}🎯",
+  "416826556": "🚀 Olly",
+  "3168006680": "NSO PM💯",
+  "376875773": "[🌟] WØCK",
+  "3303835743": "😈 HoodZ",
+  "2646527209": "👹Klryy",
+  "1338308491": "🇵🇷 DOA AJ",
+  "973137196": "🇵🇷 SILENCE",
+  "3146489959": "[🎯]VLØXY",
+  "4015403680": "Sami Gzz 🐇💚",
+  "4552758384": "junior💯",
+  "1528945440": "Trell🍀",
+  "355840768": "[🎭]Killer",
+  "3305517271": "werkz🎸",
+  "979189642": "[🎵] Rex!",
+  "5080166678": "🛸Tdot",
+  "1624224927": "[🚬] BRɆZY",
+  "1130892236": "💤Sleepy gzz",
+  "3665675588": "Booska 👹",
+  "3050020329": "🇩🇿 F.2🕷",
+  "5719953004": "👑adox",
+  "1233740805": "💫AMIRI",
+  "1678453460": "🇲🇦[Morroco] 🎯",
+  "5069454330": "[💢] GODFATHER",
+  "1637757804": "[🦇]Kairo",
+  "3097428336": "⛪️Dougie",
+  "3552913153": "qii 🏹",
+  "2023379011": "💫Low",
+  "5697283443": "[🚷] Steppa",
+  "109341157": "🚀 M1",
+  "156261869": "TwinUzis ✝️",
+  "4487366337": "REYMI🇩🇴",
+  "3499002018": "[🦇]K3",
+  "1609181155": "Void ⛈️",
+  "4091104035": "🛰️Adot",
+  "3786435733": "🏹 Miles",
+  "7012258786": "Streak ☦️",
+  "1339135545": "burger ☦️",
+  "1717733864": "Buzz 🌟",
+  "3179911076": "Słeepÿ Gzz💤",
+  "7052397278": "[💫] DRXCO",
+  "4639556497": "[🏴‍☠️]CÃSH",
+  "3764255578": "[🦇]Tiny",
+  "3512438084": "[💢] Icyy",
+  "1621615581": "oiw⚔️",
+  "5111909070": "[🌋] PERXZ",
+  "4659279536": "[🐐] Dxtty Gzz",
+  "2415937602": "[🏖] MD🌀T",
+  "4273198805": "[🕋] Ċøřÿ Ġżž",
+  "3515095762": "[💢] Viper",
+  "4903912040": "💫 LDxtz",
+  "5583253354": "kody🏹",
+  "5738550662": "🏴‍☠️Rah",
+  "3882704761": "Neaky 🎷",
+  "4102542548": "Memø 🏄🏽‍♂️",
+  "1769254709": "Mirr 🎸",
+  "2500198317": "krip🩸",
+  "4062651191": "🚀{Renda}👹",
+  "1899064454": "🪁 Xooticvz",
+  "4643593882": "Blue🏹",
+  "3170432555": "Nate🏹",
+  "2528569905": "[👹] Scar",
+  "4958106508": "[⚡] Hunter ",
+  "641864333": "[🗡️] Dbøøsts",
+  "568519818": "🚀 Moo",
+  "124261799": "🎆Tøøthyy",
+  "4367328604": "Mxkhø [💫]",
+  "7043428448": "Coath 🥍",
+  "3743769008": "Ray 🥍",
+  "2651208503": "gabe 🛐",
+  "4045220380": "💤Sleepy gzz",
+  "994867169": "🎯JJ",
+  "1603146414": "[950] MAX🌊",
+  "5508498945": "CJ🚷",
+  "5413779111": "MR.OTB",
+  "1063027985": "Gxbø [💫]",
+  "4182123574": "Jxrø [💫]",
+  "5491393171": "950 Lewis🙉",
+  "1779990892": "♟️Chxpo̸",
+  "3045995794": "Alvxrø 💫",
+  "4084949579": "kuda🏹",
+  "879251676": "950🔫",
+  "5123538210": "[👑] Reijnders",
+  "4126980478": "CEE 💋",
+  "4999929225": "[🌴] Miami",
+  "1907324012": "Sanity 🧠",
+  "4120303098": "💰pole",
+  "5283428559": "[❄️] Hawkdown",
+  "684905380": "spiffy [ 🕋 ]",
+  "3215314071": "Zxn☄",
+  "5732424722": "GRIMEY👺",
+  "4050825390": "🇨🇴Alvarez",
+  "4368641045": "{💢} DP",
+  "4958566671": "[⛈️] zJxvixx",
+  "7043721095": "CDØT [ 💢 ]",
+  "2889930694": "9diz 🥇",
+  "1554011955": "wave🚀",
+  "306230028": "[❤️‍🔥] Karla",
+  "1506734781": "👺 zJxvi",
+  "2674887221": "(🗽)Tec",
+  "2995021238": "{950}💵",
+  "5122956584": "[950]💊SILENT",
+  "3925379999": "NXKØ 👹",
+  "411364732": "prada 🏹",
+  "2637257557": "Xňxy🗽",
+  "323132747": "Šav 🎭",
+  "5111960903": "Rizéx 🇩🇿",
+  "4699656290": "jaylo🏝️",
+  "5532205542": "Vøn🏴‍☠️",
+  "393149417": "💸 rev",
+  "2264073110": "👹BIG AD👹",
+  "4342108468": "🗽 Spriite",
+  "641479937": "🐦‍⬛ JJ",
+  "4052132431": "Zak 🎯",
+  "5574984165": "[✈️] tkgunninz",
+  "2250539292": "[🔞]Sin Gzz",
+  "4394079803": "! Human 🌃",
+  "4101476581": "Mafiazz 🏙️",
+  "1713117028": "jha 🏎️",
+  "3341426713": "🩸Murrda🩸",
+  "5244136293": "🏆PARKSIDE",
+  "4362387556": "[🔪]SKEECLIPS",
+  "532791855": "[👹] KG",
+  "673653189": "[🏴‍☠️]Leø",
+  "1707977267": "SP5DERGz[🏂]",
+  "4728238517": "Eli⚠️",
+  "1169959565": "[🏝️] PR🌎JECT",
+  "3583455001": "bando🧟",
+  "1353644798": "[🙈]Monkey",
+  "3030861593": "GENN 🗡️",
+  "905256962": "☄️Jevy",
+  "6144448694": "[🏴󠁧󠁢󠁳󠁣󠁴󠁿] Ð3MØN",
+  "5089606027": "[💥]END",
+  "500560736": "Cxnticø[🎆]",
+  "1324953691": "[⛩️] KayB",
+  "1178677289": "Bloody🇲🇽",
+  "364136833": "[🚷] Truly",
+  "374914102": "sanone [🎰]",
+  "4741718306": "JEO 🩸",
+  "5253124943": "[🏴‍☠️]țūt",
+  "5641406445": "[🚷]BIG_Bmg👹",
+  "3906850303": "[🐭] Chxpø",
+  "3242774358": "🏴‍☠️Mødąk",
+  "6182771028": "[🎃]NUΞßΞ",
+  "7065439500": "[🔪] ŠCRATZ",
+  "472489257": "NR3 🚷",
+  "4120162736": "Møš† Hā†ēd",
+  "5481289827": "King[👑]",
+  "5145706071": "👴🏻UNC",
+  "5397561869": "exø 🎯",
+  "4878345827": "Cy5ø ☦️",
+  "678509261": "PR🌏JECT",
+  "5639057729": "[🔞]  ĦŰĎÐŸ",
+  "4765884400": "Pørxźz💦",
+  "513285281": "{✝️} J1",
+  "2221683062": "K1🩸",
+  "5772270478": "🩸Oblock777💊",
+  "3692343801": "🚷Bludotty  Gz",
+  "5324697945": "MainTap 🧟‍♂️💀",
+  "631041016": "💙mondo💙",
+  "4300626370": "Ibra💯",
+  "6146589091": "[🪂]Rizzo",
+  "2064238793": "Lex GZZ🌊",
+  "5398536685": "[🛸] A2A",
+  "4909813167": "🛸 starxz",
+  "2356149831": "Tdøt[💢]",
+  "2649796288": "[🌀] CDØT",
+  "5225260320": "Steppa Gzz 💎",
+  "3142098924": "switcharoo⛈️",
+  "2675083428": "🚷ELM",
+  "3551736635": "👻💢Money💢👻",
+  "2896029194": "950🇲🇽",
+  "5355214950": "G4by 🐐",
+  "3210073744": "pain🍼",
+  "4614457169": "👑 Combo👹"
+}
